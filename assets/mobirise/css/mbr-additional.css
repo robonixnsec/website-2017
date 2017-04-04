@@ -1,4 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 #menu-0 .mbr-brand__name {
   font-size: 16px;
@@ -63,6 +66,103 @@
 #msg-box1-16 P {
   color: #999999;
   text-align: center;
+}
+#footer1-2 P {
+  text-align: center;
+  font-size: 13px;
+}
+
+#ext_menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-6 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-6 .mbr-brand__name a {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 36px;
+}
+#header3-13 H3 {
+  text-align: center;
+}
+#msg-box4-11 .mbr-header__text {
+  color: #000000;
+  text-align: left;
+  font-size: 22px;
+}
+#msg-box4-11 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-11 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-11 .mbr-article P {
+  color: #7c706b;
+}
+#footer1-2 P {
+  text-align: center;
+  font-size: 13px;
+}
+
+
+#ext_menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-6 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-6 .mbr-brand__name a {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 36px;
+}
+#footer1-2 P {
+  text-align: center;
+  font-size: 13px;
+}
+#header3-17 H3 {
+  text-align: left;
+}
+#header3-17 P {
+  font-size: 14px;
+}
+#content1-24 P {
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+}
+
+
+
+#ext_menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-6 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-6 .mbr-brand__name a {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 36px;
+}
+#header3-22 H3 {
+  text-align: center;
+}
+#header3-22 SPAN {
+  font-size: 60px;
+  font-family: 'Indie Flower', cursive;
+  color: #252525;
+  text-align: center;
+}
+#header3-22 P {
+  font-family: 'Oswald', sans-serif;
+  font-size: 12px;
 }
 #footer1-2 P {
   text-align: center;
